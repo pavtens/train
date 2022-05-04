@@ -4,3 +4,4 @@ def plus(a,b):
 
 
 plus(int(input()),int(input()))
+print('salut')
